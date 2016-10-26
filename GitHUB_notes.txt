@@ -1,0 +1,32 @@
+GitHUB
+Main code
+Git status
+Git add.
+Git commit –m “message”
+Git push origin master
+
+Don’t work on master if multiple people are working on it. 
+Git checkout –b new_branch_name
+Git checkout master
+	
+Git branch – lists all the branches
+
+To get back into master
+Pull request
+
+Ask someone to review the proposed changes – allows review.
+
+Can discuss changes
+Can click on line numbers and discuss whilst pull request is open
+The person in control can merge pull request
+Can delete the branch usually
+Can connect to slack
+Can do email and sms too
+
+How to make a git repository
+
+1. Git init
+2.  Add origin 
+
+Merge not needed nor rebase – online 
+
