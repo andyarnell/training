@@ -1,13 +1,13 @@
 GitHUB
 Main code
-Git status
-Git add.
-Git commit –m “message”
-Git push origin master
+git status
+git add.
+git commit –m “message”
+git push origin master
 
 Don’t work on master if multiple people are working on it. 
-Git checkout –b new_branch_name
-Git checkout master
+git checkout –b new_branch_name
+git checkout master
 	
 Git branch – lists all the branches
 
@@ -25,8 +25,8 @@ Can do email and sms too
 
 How to make a git repository
 
-1. Git init
-2.  Add origin 
+git init
+git remote add origin https://github.com/andyarnell/training.git
 
-Merge not needed nor rebase – online 
+unless all goes wrong then merge commmands not needed nor rebase – online 
 
